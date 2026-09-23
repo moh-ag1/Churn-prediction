@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+mlruns/
+logs/
+*.log
+data/raw/
+data/processed/
+data/preprocessed/
+artifacts/model/
+.env
+.vscode/
+.idea/
